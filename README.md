@@ -32,3 +32,10 @@ The AI4Bharat IndicBART model is used as the core architecture for this summariz
 Install the dependencies using:
 ```bash
 pip install transformers datasets torch
+
+
+```
+
+This file gives a comprehensive overview of your project, including instructions for usage and acknowledgments for the resources used.
+```
+
