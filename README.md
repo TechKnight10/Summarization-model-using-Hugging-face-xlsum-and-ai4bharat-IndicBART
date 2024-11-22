@@ -39,9 +39,9 @@ pip install transformers datasets torch
 This file gives a comprehensive overview of your project, including instructions for usage and acknowledgments for the resources used.
 ## Acknowledgments
 
-Hugging Face for the XLSum dataset and Transformer libraries.
-AI4Bharat for providing the IndicBART model for Indic languages.
-Google Colab for providing accessible cloud computing resources.
+1. Hugging Face for the XLSum dataset and Transformer libraries.
+2. AI4Bharat for providing the IndicBART model for Indic languages.
+3. Google Colab for providing accessible cloud computing resources.
 rust
 Copy code
 
