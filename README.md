@@ -20,7 +20,7 @@ The AI4Bharat IndicBART model is used as the core architecture for this summariz
 ## Usage
 
 1. Clone this repository.
-2. Open the `summarization_model.ipynb` notebook in Google Colab.
+2. Open the `summarizationwithIndicBART.ipynb` notebook in Google Colab.
 3. Run the cells to load the dataset, fine-tune the model, and generate summaries.
 
 ## Dependencies
